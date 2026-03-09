@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Educonter22.aternos.me:24881",
+    "ip": "Educonter22.aternos.me",
     "port": 24881,
     "version": "1.21.1"
   },
